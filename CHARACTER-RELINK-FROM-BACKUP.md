@@ -1,4 +1,7 @@
+# Probably deprecated : See DUNE-DB-FUNCTIONS.md
 # Character Relink: Restore an old character from a backup
+
+
 
 Restores a player's character from an old-server DB backup into a fresh-install world,
 preserving all progress, inventory, buildings, and land claims.
